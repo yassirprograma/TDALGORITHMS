@@ -1,0 +1,11 @@
+03/12/2020
+
+Se agregó las funciones masderecho y masizquierdo en arbin
+Se agregó la función eshoja y esinterno en arbin
+Se agregó la función de imprimir por niveles un arbin
+
+
+
+Se agregó la función de eliminación de nodos en arbb
+y la de eliminación de nodos en avl (eliminar y rebalancear)
+
